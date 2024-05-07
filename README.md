@@ -33,7 +33,7 @@ Publish the website in the given URL.
 Figma
 
 ## CODE:
-
+```
 <div style="width: 430px; height: 932px; position: relative; background: white">
   <img style="width: 429px; height: 932px; left: 0px; top: 0px; position: absolute" src="https://via.placeholder.com/429x932" />
   <div style="left: 113px; top: 430px; position: absolute; color: black; font-size: 48px; font-family: Inter; font-weight: 900; word-wrap: break-word">ARTEL’25</div>
@@ -78,6 +78,7 @@ Figma
   <div style="width: 385px; height: 109px; left: 17px; top: 758px; position: absolute; color: white; font-size: 36px; font-family: Libre Caslon Text; font-weight: 700; word-wrap: break-word">For any Queries<br/>Contact : cartel@saveetha.in</div>
   <img style="width: 281px; height: 281px; left: 181px; top: 466px; position: absolute" src="https://via.placeholder.com/281x281" />
 </div>
+```
 
 ## OUTPUT:
 ![alt text](<Screenshot (68).png>)
